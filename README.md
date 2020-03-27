@@ -1,6 +1,6 @@
 #JENKINS AND AWS STEPS
 
-## JENKINS
+# JENKINS
 
 ## what is CI CD?
 continuous integration and continuous deployment
